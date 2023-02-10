@@ -1,1 +1,1 @@
-# geekbrains
+# GeekBrains study repository
